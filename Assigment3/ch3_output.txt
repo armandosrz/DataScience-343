@@ -1,0 +1,7 @@
+Enter the name of your file: road.txt
+Mean Sentiment Score: -0.185714285714
+Variance: 0.234285714286
+Standard Deviation: 0.484030695603
+Total Words: 66
+Words Found in Lexicon: 21
+Words Not in Lexicon: 38
