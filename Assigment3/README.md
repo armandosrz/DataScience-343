@@ -10,13 +10,14 @@ It is an extension to the [Words Count](../Assigment2) project.
 ## Usage
 
 Version: `Python 2.7`
-Run: `python main.py`
+Run:
+$ python main.py
 
 Afterwards it will ask you for a file name. Select a .txt file and proceed
 
 ## Included files for testing
 
-- road.txt - sample data file
-- ch3_output.txt - Challenge 3 output
-- figure.png - The histogram for the provided sample data file
-- ch2_output.txt - Challenge 2 output (only for reference, this is *not* the output of Challenge 3)
+- [road.txt](road.txt) - sample data file
+- [ch3_output.txt](ch3_output.txt) - Challenge 3 output
+- [figure.png](figure.png) - The histogram for the provided sample data file
+- [ch2_output.txt](ch2_output.txt) - Challenge 2 output (only for reference, this is *not* the output of Challenge 3)
