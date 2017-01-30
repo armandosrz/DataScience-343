@@ -8,7 +8,9 @@ affected by change over time.
 All the images were then processed in order to obtain the average difference image
 from all the input images. The program outputs a new picture which highlights
 the area of change in red based on the passed threshold.
-[example 20% threshold](figure_20.png)
+[Example 20% threshold](figure_20.png)
+
+The obtained results can be seen at [hypothesis analysis](Hw4HypothesesAnalysis.pdf)
 
 
 ## Usage
