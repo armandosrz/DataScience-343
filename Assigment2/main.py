@@ -10,7 +10,7 @@ class WordCount():
         Get List of common words from file,
         returned as a python dictionary to
         improve efficiency while using the
-        python in oprerator.
+        python 'in' operator.
 
         O(1) against O(N) in python List
     '''
