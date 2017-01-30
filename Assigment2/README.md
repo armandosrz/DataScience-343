@@ -6,8 +6,8 @@ Common words are obtained from [common.txt](data/common.txt).
 
 ## Usage
 
-
+Version: `Python 2.7`
 Run: `python main.py`
 
 Afterwards it will ask you for a file name. Select a file under the subdirectory
-/data and proceed.
+[data](data) and proceed.
