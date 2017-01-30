@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-Simple program to obtain the Sentiment Analysis being used in a simple .txt file.
+Program to obtain the Sentiment Analysis being used in a simple .txt file.
 The emotional grade for a word is obtained from the [lexicon](sent_lexicon.csv).
 Based on the given input it will generate a [histogram](figure.png) with
 the results divided on 5 segments ranging from negative to positive.
@@ -9,7 +9,7 @@ It is an extension to the [Words Count](../Assigment2) project.
 
 ## Usage
 
-Run: `python main.py`
+Run: `python main.py` --
 Version: Python 2.7
 
 Afterwards it will ask you for a file name. Select a .txt file and proceed
