@@ -9,8 +9,8 @@ It is an extension to the [Words Count](../Assigment2) project.
 
 ## Usage
 
-Version: Python 2.7
 Run: `python main.py`
+Version: Python 2.7
 
 Afterwards it will ask you for a file name. Select a .txt file and proceed
 
