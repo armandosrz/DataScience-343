@@ -16,5 +16,5 @@ color by averaging those.
 - _Execution:_ ´python main.py {K-Neighbor(int)} {FileName}´
 
 ###Detailed Instructions
-  For more information open the pdf called (_Challenge_5.pdf_)[Challenge_5.pdf].
+  For more information open the pdf called [_Challenge_5.pdf_](Challenge_5.pdf).
   Results are stored in the files that end in ´{number}-neigboors.png´
