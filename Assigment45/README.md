@@ -1,4 +1,4 @@
-# Genetic Algorithm password cracker
+# Genetic Algorithm Password Cracker
 
 A specific web page was setup in such a way that when submitting a specific
 username and an alphanumeric string as a password it will return a time as a
