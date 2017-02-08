@@ -2,7 +2,7 @@
 
 Projects for the Data Science course. Python based.
 
-# Projects included
+## Projects included
 
 - [WordCount](/WordCount)
 - [SentimentAnalysis](/Sentiment Analysis)
