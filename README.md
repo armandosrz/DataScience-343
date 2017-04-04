@@ -5,7 +5,7 @@ Projects for the Data Science course. Python based.
 ## Projects included
 
 - [WordCount](/WordCount)
-- [SentimentAnalysis](/Sentiment Analysis)
+- [SentimentAnalysis](/SentimentAnalysis)
 - [DifferenceImage](/DifferenceImage)
 - [K-Nearest Neighbors](/KNN)
 - [Polynomial Fit](/PolyFit)
